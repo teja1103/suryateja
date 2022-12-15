@@ -1,0 +1,91 @@
+/* *{
+  background-color: #fff;
+} */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 40%;
+  }
+  
+  td, th {
+    border: 2px solid black;
+    text-align: center;
+    padding: 8px;
+    color: black;
+  }
+  
+  tr:nth-child(even) {
+    background-color:#fff ;
+    
+  }
+    tr:nth-child(odd) {
+    background-color:#fff ;
+  }
+ 
+  .agree{
+    display:inline;
+  }
+  .logo{
+    height: 5px;
+    width: 10px;
+}  
+tr, td, p{
+    color: black;
+    text-emphasis: none;
+    text-decoration: none;
+    font-weight: bold;
+  }
+.agree, .h6{
+    display: flex;
+   
+}
+.print button{
+  
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 250px;
+  padding: 5px 7px;
+  border-radius: 5px;
+}
+.print button:hover{
+  border: 2px solid #0c0224;
+  border-radius: 10px;
+  color: #0c0224;
+  background-color: rgba(221, 179, 207, 0.89);
+  transition: all 500ms ease;
+  padding: 10px;
+  opacity: 1;
+  transform: skew(-1deg);
+
+}
+.agree ,.checking .h4{
+  color: black;
+}
+.padding{
+  padding-left: 1px;
+  padding-top: 7px;
+  padding-bottom: 1rem;
+}
+.log
+{
+  height:140px;
+  width: auto;
+}
+.condi{
+  margin-left: 3.5%;
+  font-size: 150%;
+  color: black;
+}
+.reg{
+  margin-left: 3.5%;
+  font-size: 150%;
+  color:black;
+}
+.reg:link{
+  color:red;
+}
+.done button{
+  margin-left: 285px;
+  border: ;
+  color: #0c0224;
+}
