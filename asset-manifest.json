@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/suryateja/static/css/main.b2015a3a.css",
+    "main.js": "/suryateja/static/js/main.2a92d420.js",
+    "static/js/703.4c253f4d.chunk.js": "/suryateja/static/js/703.4c253f4d.chunk.js",
+    "static/js/14.576e6da7.chunk.js": "/suryateja/static/js/14.576e6da7.chunk.js",
+    "static/js/787.070db070.chunk.js": "/suryateja/static/js/787.070db070.chunk.js",
+    "static/media/clubs.png": "/suryateja/static/media/clubs.61e3741fdc2d89cdcf46.png",
+    "static/media/vjitnew.png": "/suryateja/static/media/vjitnew.18ac827545ca373165b9.png",
+    "static/media/backgroundimg.jpeg": "/suryateja/static/media/backgroundimg.5cbf66819b228a2c01c5.jpeg",
+    "index.html": "/suryateja/index.html",
+    "main.b2015a3a.css.map": "/suryateja/static/css/main.b2015a3a.css.map",
+    "main.2a92d420.js.map": "/suryateja/static/js/main.2a92d420.js.map",
+    "703.4c253f4d.chunk.js.map": "/suryateja/static/js/703.4c253f4d.chunk.js.map",
+    "14.576e6da7.chunk.js.map": "/suryateja/static/js/14.576e6da7.chunk.js.map",
+    "787.070db070.chunk.js.map": "/suryateja/static/js/787.070db070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2015a3a.css",
+    "static/js/main.2a92d420.js"
+  ]
+}
